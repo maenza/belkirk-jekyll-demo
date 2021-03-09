@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/uploads/2021/03/09/pexels-sora-shimazaki-5668802.jpg"
+banner_image: "/uploads/2021/03/09/pexels-sora-shimazaki-5668802-1.jpg"
 layout: landing-page
 heading: Massimiliano Maenza
 partners:
