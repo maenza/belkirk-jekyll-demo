@@ -3,10 +3,7 @@ title: Home
 banner_image: "/uploads/2021/03/09/pexels-sora-shimazaki-5668802-1.jpg"
 layout: landing-page
 heading: Massimiliano Maenza
-partners:
-- "/uploads/2017/11/13/stem.png"
-- "/uploads/2017/11/13/UPenn_logo.png"
-- "/uploads/2017/11/13/nysed.png"
+partners: []
 services:
 - description: Consulenza ed assistenza in materia civile
   heading: Diritto Civile
