@@ -8,10 +8,9 @@ partners:
 - "/uploads/2017/11/13/UPenn_logo.png"
 - "/uploads/2017/11/13/nysed.png"
 services:
-- description: Performing collaborative research and providing services to support
-    the Health Sector.
-  heading: Health
-  icon: "/uploads/2017/11/13/health.png"
+- description: Consulenza ed assistenza in materia civile
+  heading: Diritto Civile
+  icon: "/uploads/2021/03/09/pexels-sora-shimazaki-5669602.jpg"
 - description: Performing collaborative research and providing services to support
     the biotechnology sector.
   heading: BioTech
