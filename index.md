@@ -1,8 +1,8 @@
 ---
 title: Home
-banner_image: "/img/banner.png"
+banner_image: "/uploads/2021/03/09/pexels-sora-shimazaki-5668802.jpg"
 layout: landing-page
-heading: Belkirk College
+heading: Massimiliano Maenza
 partners:
 - "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/UPenn_logo.png"
@@ -16,17 +16,16 @@ services:
     the biotechnology sector.
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: Engineering and Health Sciences
-textline: | 
-  Belkirk College of Engineering
-  
-  Ora et Labora
+sub_heading: Avvocato
+textline: Consulenza ed assistenza legale a Udine
 hero_button:
-  text: Learn more
+  text: Per saperne di più
   href: "/about"
 show_news: true
+show_staff: false
 menu:
   navigation:
     identifier: _index
     weight: 1
+
 ---
